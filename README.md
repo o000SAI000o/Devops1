@@ -1,4 +1,4 @@
-###Deployed various services each running on independent VMs,this scenario is for getting clear understanding about how each service runs on each VM and how they communicate using ports.
+# Deployed various services each running on independent VMs,this scenario is for getting clear understanding about how each service runs on each VM and how they communicate using ports.
 
 <img width="1326" height="696" alt="Screenshot 2025-07-12 180555" src="https://github.com/user-attachments/assets/5a988f83-c77b-4451-a622-1a1ffe0b5986" />
 
