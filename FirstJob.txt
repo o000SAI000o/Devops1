@@ -1,7 +1,0 @@
-whoami
-pwd
-which jenkins
-java -version
-ip a
-echo "Hey there im vishwajeet u can call me sai or vishwa" > sai.txt
-cat sai.txt
