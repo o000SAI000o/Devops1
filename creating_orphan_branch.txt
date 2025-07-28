@@ -1,0 +1,16 @@
+# 1. Start from main (or wherever you are)
+git checkout main
+
+# 2. Create a totally new empty branch
+git checkout --orphan new-branch-name
+
+# 3. Remove all tracked files
+git rm -rf .
+
+# 4. Add your new files
+echo "This is a new file" > newfile.txt
+git add .
+git commit -m "Initial commit on new independent branch"
+
+# 5. Push it to GitHub
+git push origin new-branch-name
